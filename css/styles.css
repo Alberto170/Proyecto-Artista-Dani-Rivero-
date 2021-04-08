@@ -12,7 +12,7 @@ body{
 }
 
 .navbar{
-    background-color: #EDCB54;
+    background-color: #eb7617;
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     align-items: center;
